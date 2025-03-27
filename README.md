@@ -17,7 +17,7 @@ This project is a Java web application using Spring Boot and JTE (Java Template 
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:shakhawatmollah/jte-layout.git
    cd jte-layout
    ```
 
